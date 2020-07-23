@@ -1,6 +1,9 @@
 h1 {
     text-align: center;
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
 }
 
 .s1 {
@@ -8,9 +11,17 @@ h1 {
     background-size: cover;
 }
 
-.s1 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-    color: white;
-    font-weight: bold;
+.s2 {
+    background-image: url("../images/bg-2.jpg");
+    background-size: cover;
+}
+
+.s3 {
+    background-image: url("../images/bg-3.jpg");
+    background-size: cover;
+}
+
+.s4 {
+    background-image: url("../images/bg-4.jpg");
+    background-size: cover;
 }
