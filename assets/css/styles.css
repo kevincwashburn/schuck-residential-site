@@ -1,3 +1,5 @@
+/* need to figure out if navbar is pushing the bg images down for each section or if it's something else... */
+
 h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -24,4 +26,8 @@ h1 {
 .s4 {
     background-image: url("../images/bg-4.jpg");
     background-size: cover;
+}
+
+#fp-nav ul li a span {
+    background: white;
 }
